@@ -1,0 +1,16 @@
+{
+  "name": "demo600",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fashionApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "fashionApi.js"
+  },
+	"keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
